@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YGQlPbayieYafjmOqQesDQhXOpBzo5fCrWUzysMgKgCINhHJPE0R2+myjDF3lHd58soktuvv+YmX7+5oGeqR8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jewry\\local-repo\\math-master1\\myLib\\myLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jewry\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jewry\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

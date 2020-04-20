@@ -1,0 +1,9 @@
+C:\Users\jewry\local-repo\math-master1\myLib\bin\Debug\netstandard2.0\myLib.deps.json
+C:\Users\jewry\local-repo\math-master1\myLib\bin\Debug\netstandard2.0\myLib.dll
+C:\Users\jewry\local-repo\math-master1\myLib\bin\Debug\netstandard2.0\myLib.pdb
+C:\Users\jewry\local-repo\math-master1\myLib\obj\Debug\netstandard2.0\myLib.csprojAssemblyReference.cache
+C:\Users\jewry\local-repo\math-master1\myLib\obj\Debug\netstandard2.0\myLib.csproj.CoreCompileInputs.cache
+C:\Users\jewry\local-repo\math-master1\myLib\obj\Debug\netstandard2.0\myLib.AssemblyInfoInputs.cache
+C:\Users\jewry\local-repo\math-master1\myLib\obj\Debug\netstandard2.0\myLib.AssemblyInfo.cs
+C:\Users\jewry\local-repo\math-master1\myLib\obj\Debug\netstandard2.0\myLib.dll
+C:\Users\jewry\local-repo\math-master1\myLib\obj\Debug\netstandard2.0\myLib.pdb
